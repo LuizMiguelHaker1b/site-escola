@@ -8,7 +8,7 @@ justify-content: space-around;
 align-items: center;
 padding: 24px 0;}
 
-.cabecalho-imagem{width: 15%;}
+.cabecalho-imagem{width:70%;}
 
 .cabecalho-lista-item{
     display: inline-block;
